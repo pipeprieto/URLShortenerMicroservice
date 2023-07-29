@@ -1,0 +1,6 @@
+.vscode
+bin
+appsetting.json
+Migrations
+URLShortenerMicroservice.sln
+obj
